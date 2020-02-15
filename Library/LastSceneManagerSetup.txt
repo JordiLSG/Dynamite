@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Western Props/Scene/Example.unity
+- path: Assets/Explode.unity
   isLoaded: 1
   isActive: 1
